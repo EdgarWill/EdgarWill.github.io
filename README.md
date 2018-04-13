@@ -1,2 +1,2 @@
 # EdgarWill.github.io
-This is my Edgar Gonzales work portfolio
+This is Edgar Gonzales work portfolio
