@@ -1,0 +1,78 @@
+/*
+Description: Style for edg portfolio.
+Author: Edgar Gonzales
+Author URI: https://edgarwill.github.io/
+*/
+
+/*
+
+
+
+
+
+/*******************************************************
+ *
+ * 2. Custom CSS
+ *
+ *******************************************************/
+
+/* Global */
+
+body{
+    font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	background: #FFF;
+	color: #000000;
+	margin: 0;
+}
+
+h2{
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin: 25px auto;
+}
+
+i.icon{
+    font-style: normal !important;
+}
+
+
+.section-1{
+    background: url(images/bg1.jpg) top center / cover no-repeat;
+    text-align: center;
+}
+
+    .section-1 h1{
+        color: #fff;
+        font-size: 70px;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin: 20px 0;
+    }
+    .section-1 h2{
+        color: #fff;
+        font-weight: 500;
+    }
+
+.section-2{
+    background: url(images/bg2.jpg) top center / cover no-repeat;
+    text-align: center;
+    color: #fff;
+}   
+
+.skill-row{
+    padding-top: 20px;
+}
+
+.section-2 .icon.fab {
+    font-size: 70px;
+}
+
+
+.skill-col span{
+    display: block;
+    font-size: 20px;
+    padding: 15px 0 0;
+    font-weight: 700;
+}
