@@ -120,3 +120,24 @@ i.icon{
      width: 50%;
 }
 
+.portfolio-slide{
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.portfolio-1{
+    background-image: url(images/portfolio-the-fiebig-team.jpg);
+}
+.portfolio-2{
+    background-image: url(images/portfolio-team-kiwi.jpg);
+}
+.portfolio-3{
+    background-image: url(images/portfolio-the-wiley.jpg);
+}
+.portfolio-4{
+    background-image: url(images/portfolio-mountain-leisure.jpg);
+}
+.portfolio-5{
+    background-image: url(images/portfolio-premiere-realty.jpg);
+}
